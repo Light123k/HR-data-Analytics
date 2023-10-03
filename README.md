@@ -8,4 +8,4 @@ Following is a screenshot of the dashboard created.
 
 On clicking any of the departments, the dashboard changes accordingly. 
 
-![image](https://github.com/Light123k/HR-data-Analytics/assets/108331555/6769bdf8-39ba-4d99-93b0-a98ca45f01b6)
+![image](https://github.com/Light123k/HR-data-Analytics/assets/108331555/bf663ea6-08d1-4313-808a-2527efce4330)
